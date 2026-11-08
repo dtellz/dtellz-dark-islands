@@ -1,0 +1,6 @@
+.DS_Store
+*.error
+mods/*/gpui-kit.d.ts
+mods/*/herdr.d.ts
+mods/*/jsconfig.json
+layouts/.state/

@@ -1,0 +1,33 @@
+dtellz-dark-islands
+
+Palette and packaging approach derived from dtellz-dark by Diego Tellez:
+https://github.com/dtellz/dtellz-dark
+Reference commit: a5a6c43da25ec9d486a96410ce68c715c2be21e1
+Apache License, Version 2.0; see LICENSE.
+
+Rounded-card layout design adapted from Islands by Cody Packer:
+https://github.com/CodeyPacker/herdr-mods/tree/main/islands
+Reference repository commit: 1428b33b71c790202b592f67f8c6498ebeabfde3
+Copyright (c) 2026 Cody Packer.
+MIT License; see licenses/Islands-MIT.txt.
+
+Layout structure and bundled panel code are derived from Herdr main
+and its spaces, agents, pane, tabs, workspace-chrome, and
+workspace-status mods, version 0.1.13:
+https://github.com/herdrdev/herdr-app
+Apache License, Version 2.0; see LICENSE.
+
+Changes include separated rounded panels, pill-shaped tabs and a
+grouped toolbar, renamed personal mods, a dedicated palette and
+preview, and dark blue canvas/chrome colors. Panels use opaque fills.
+Original workspace, agent, terminal, and machine behavior is retained.
+
+Bundled Lucide/Feather SVG icons retain their original licenses:
+https://github.com/lucide-icons/lucide
+Copyright (c) 2026 Lucide Icons and Contributors.
+Feather-derived artwork: Copyright (c) 2013-present Cole Bemis.
+See licenses/Lucide-Feather.txt for the full ISC and MIT notices.
+
+The original palette used Rex as a visual reference and was customized
+with pure white primary text and vivid terminal colors. No Rex code,
+icons, fonts, or other application assets are included.
